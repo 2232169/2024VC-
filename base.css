@@ -1,0 +1,20 @@
+@charset "utf-8";
+body h1 {
+    color: #FF7607;
+    font-family: "HGｺﾞｼｯｸE";
+    font-size: 40px;
+}
+.key {
+    color: #C7FFBF;
+    background-color: #000BFE;
+    font-size: x-large;
+}
+body p img {
+    border: 10px dotted #00FF29;
+}
+body {
+    background-image: url(leaf.jpg);
+    background-repeat: no-repeat;
+    background-size: 1800px 1200px;
+    background-position: 0 0;
+}
